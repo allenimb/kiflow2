@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/chat",
+      "destination": "https://kiflow.flutterflow.app/chatWithKifuFromWebsite",
+      "permanent": false
+    }
+  ]
+}
