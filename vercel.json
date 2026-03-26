@@ -1,9 +1,14 @@
 {
-  "redirects": [
-    {
-      "source": "/chat",
-      "destination": "https://kiflow.flutterflow.app/chatWithKifuFromWebsite",
-      "permanent": false
-    }
-  ]
+    "redirects": [
+          {
+                  "source": "/chat",
+                  "destination": "https://kiflow.flutterflow.app/chatWithKifuFromWebsite",
+                  "permanent": false
+          },
+          {
+                  "source": "/",
+                  "destination": "https://kiflow.flutterflow.app/chatWithKifuFromWebsite",
+                  "permanent": false
+          }
+    ]
 }
